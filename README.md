@@ -1,6 +1,6 @@
  ### Hi there! I’m Adeniyi, Welcome to my Github
  
-I'm a Ph.D. mechanical engineering student with research interest in manufacturing and metrology. I'm also a machine learning enthusiast. I have a keen interest in designing, deploying machine learning applications, as well as writing. Besides work, I enjoy...
+I'm a Mechanical Engineer with research interest in manufacturing and metrology. I'm also a machine learning enthusiast. I have a keen interest in designing, deploying machine learning applications, as well as writing. Besides work, I enjoy...
 
 * Playing tennis
 
